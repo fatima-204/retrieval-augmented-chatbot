@@ -29,7 +29,7 @@ git pull
 - **RAG Pipeline**: LangChain + ChromaDB (vector storage)  
 - **Embeddings**: `sentence-transformers/all-MiniLM-L6-v2`  
 - **UI**: Gradio  
-- **Knowledge Base**: Pre-processed insurance documents (PDFs, FAQs).  
+- **Knowledge Base**: Pre-processed insurance documents ( FAQs).  
 
 ## License  
 MIT  
